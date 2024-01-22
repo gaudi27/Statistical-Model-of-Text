@@ -1,0 +1,33 @@
+WASHINGTON -- The computer models used by banks to gauge the risk of each of their investments were partially to blame for last year's financial meltdown and the resulting banking crisis. That was the message delivered to Congress' House Committee on Science Technology by a panel of traders and economists in a hearing Thursday on risk modeling. 
+ 
+"Economics has not been known in the past for mathematical precision," said Brad Miller, chairman of the Subcommittee on Investigations and Oversight, setting the tone for the hearing. "The complex models turn out to have hidden risks rather than protected against them, all at a terrible cost."
+ 
+Some of the panelists blamed the failure of the risk models on bell-shaped curves they use to grade investments -- curves that tend to leave out the most extreme catastrophes. 
+ 
+"Data shows that banks routinely lose everything they ever made in one single blow-up," said Nassim Taleb, former trader and author of New York Times bestseller "The Black Swan," which explores the impact of highly improbable events. "They make steady income for a long time, and when they blow up, they say 'well it was unexpected.'" Like many of the other panelists, Taleb argued that the economic collapse was predictable. 
+ 
+One idea proposed by the panel that has some support in scientific community is that the former scientists who build these models on Wall Street could have better prepared the financial world for the big taking a page from scientists who study earthquakes and borrowing the mathematics of natural disasters.
+ 
+"We have codes to protect buildings in earthquake-prone cities like Toyko," said Eugene Stanley, a physicist who studies economics at Boston University and who was not involved in the hearing. "We don't have anything like that in the financial world."
+ 
+The use of computer models is standard practice across a number of scientific disciplines. Aeronautical engineers crunch numbers about how fuel burns to design more powerful jet engines; chemists in the pharmaceutical industry develop better drugs by simulating the way they interact with their target and the body; and atmospheric scientists use models to predict the paths of hurricane. These models are based on things that can be tested in a laboratory. 
+ 
+But financial models are based on a combination of market data and assumptions about human behavior -- including that people make rational economic choices. The models also assume that from day to day prices move randomly up and down. Based on these assumptions and past data about how investments have performed, the models typically use a bell-shaped curve to judge how much money an investment could be reasonably expected to lose on a bad day. 
+ 
+These models are very good at predicting short-term risks when the market behaves normally, said Greg Berman, a founder of RiskMetrics Group who helped to develop the first popular risk models in 1994.
+ 
+"But they are not designed to predict long-term trends," said Berman. "And they're not designed to operate when the markets themselves stop functioning." He said that the models should never have been used by banks, which must protect their capital against long-term trends and non-functioning markets. 
+ 
+One reason for this is that the bell-shaped curve leaves out the biggest, most extreme events, considering them to be "outliers" beyond the events covered by the curve. To compensate for this weakness, financial institutions -- knowing that these events happen more often than the curve predicts -- use other kinds of stress tests to assess the chances of catastrophe. 
+ 
+James Rickard, senior managing director of Market Intelligence at Omnis, Inc., argued before the committee that the extreme events are not strange outliers, but instead that investors are using the wrong model. "They are like medieval astronomers who believe the sun revolves around the earth are furiously tweaking their … math in the face of contrary evidence," he wrote in his statement. "They will never get this right."
+ 
+Rickard suggested that economists should borrow a different kind of math from scientists who model natural disasters such as earthquakes and man-made crises such as power outages. "It's called a power curve," his written statement read. "It says that events of any size can happen and extreme events happen more frequently than the bell curve predicts."
+ 
+In an interview, Stanley agreed. He and his colleagues analyzed more than 200 million trades and found that power laws fit better and include the extreme events.
+ 
+Though power laws cannot predict when catastrophes will occur, said Stanley, they can predict how often they will occur -- according to the Gutenberg-Richter law, for example, an earthquake that is twice as big will be four times as rare. This could allow policy-makers to set regulations that better shore up the financial world against extreme events.
+ 
+The reason that economists are uncomfortable with power laws, said Stanley, is that -- unlike the bell curve -- they are not based on any assumptions about how markets or people work. They are simply curves that fit the data.
+ 
+"It's like Newton's law of gravity … we don't understand why it works, it just does, and we use it to build things like rockets," he said.
